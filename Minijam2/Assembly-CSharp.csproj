@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\PlayerMove.cs" />
+    <Compile Include="Assets\PunchLogic.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>A:/Documents/GDC_March_2020/GDC_March_2020/Minijam2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
